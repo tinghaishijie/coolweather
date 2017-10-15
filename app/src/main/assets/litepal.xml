@@ -6,6 +6,6 @@
     <list>
         <mapping class="com.te.zheng.coolweather.db.Province"/>
         <mapping class="com.te.zheng.coolweather.db.City"/>
-        <mapping class="com.te.zheng.coolweather.db.Country"/>
+        <mapping class="com.te.zheng.coolweather.db.County"/>
     </list>
 </litepal>
