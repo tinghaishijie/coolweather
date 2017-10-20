@@ -39,7 +39,7 @@ public class WeatherActivity extends AppCompatActivity {
     private Button navButton;
 
     public SwipeRefreshLayout swipeRefresh;
-        private String mWeatherId;
+        public String mWeatherId;
 
     private ScrollView weatherLayout;
 
